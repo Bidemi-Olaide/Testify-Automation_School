@@ -1,5 +1,5 @@
 
-var number = 31;
+var number = 30;
 
 if (number % 2 == 0 )
  {
